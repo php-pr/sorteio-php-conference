@@ -58,7 +58,7 @@
     Após se certificar de que tudo está propício para seu comparecimento caso sorteado, sinta-se à vontade para preencher seus dados e concorrer.
     
     <br /><br />
-    <button id="agree">Estou de acordo, quero participar!</button>
+    <button id="agree">Estou de acordo, quero participar!</button>&nbsp;&nbsp;<strong><?= $participantes ?></strong> já estão participando.
 
     <div class="hidden-form">
         <?= $this->Form->create($participante) ?>

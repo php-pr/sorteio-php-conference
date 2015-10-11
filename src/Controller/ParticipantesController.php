@@ -43,7 +43,10 @@ class ParticipantesController extends AppController
                 $this->Flash->error('Captcha inválido ou expirado.');
             }
         }
-        $this->set(compact('participante'));
+        
+        $participantes = $this->Participantes->find('all');
+        $participantes = $participantes->count();
+        $this->set(compact('participante', 'participantes'));
         $this->set('_serialize', ['participante']);
     }
 
