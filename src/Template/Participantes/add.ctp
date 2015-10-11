@@ -14,7 +14,7 @@
     <br /><br />
     <strong>Quando será sorteado?</strong>
     <br />
-    Sabemos que o(a) ganhador(a) terá de se programar para poder ir ao evento, com isso o sorteio será realizado no dia 08/11/2015 as 22h (Horário de Brasilia), quase 1 mês antes do evento.
+    Sabemos que o(a) ganhador(a) terá de se programar para poder ir ao evento, com isso o sorteio será realizado no dia <strong>08/11/2015 as 22h</strong> (Horário de Brasilia), quase 1 mês antes do evento.
     
     <br /><br />
     <strong>O que é a modalidade Silver?</strong>
